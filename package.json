@@ -7,7 +7,7 @@
   "dependencies": {
     "@browniebroke/gatsby-image-gallery": "^6.2.1",
     "bootstrap": "^5.0.1",
-    "gatsby": "3.1.1",
+    "gatsby": "3.9.1",
     "gatsby-plugin-buildtime-timezone": "^1.0.3",
     "gatsby-plugin-image": "^1.6.0",
     "gatsby-plugin-manifest": "^3.6.0",
